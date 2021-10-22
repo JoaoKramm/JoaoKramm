@@ -1,9 +1,9 @@
 ### Olá 👋
 
-- 🔭 Sou estudande de Análise e Desenvolvimento de Sistemas
+- 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Costumo programar para Front-end
-- 🤔 Procuro estar aprendendo coisas novas sempre
-- 💬 Contate-me: krammjoao@gmail.com
+- 🤔 Procuro semopre estar aprendendo
+- 💬 Contato: krammjoao@gmail.com
 - 😄 Pronomes: ele/dele
 
 <div align="center">
