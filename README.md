@@ -2,9 +2,8 @@
 
 - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Costumo programar para Front-end
-- 🤔 Procuro semopre estar aprendendo
+- 🤔 Procuro sempre estar aprendendo
 - 💬 Contato: krammjoao@gmail.com
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/JoaoKramm">
